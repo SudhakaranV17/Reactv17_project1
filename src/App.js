@@ -1,6 +1,6 @@
 
 import './App.css';
-import ResponsiveAppBar from './components/ResponsiveAppBar';
+import ResponsiveAppBar from './components/ResponsiveAppDrawer';
 import Drafts from './components/Drafts';
 import Starred from './components/Starred';
 import Inbox from './components/Inbox';
